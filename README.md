@@ -31,6 +31,6 @@ npm run preview
 
 ## Notes
 
-- Speaking playback uses browser speech synthesis (`ja-JP`)
-- Pronunciation scoring uses browser speech recognition where supported
-- Progress and streak are stored locally in the browser
+- Speaking playback uses browser speech synthesis (`ja-JP`).
+- Pronunciation scoring uses browser speech recognition where supported.
+- Progress and streak are stored locally in the browser.
